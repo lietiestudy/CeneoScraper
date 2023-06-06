@@ -53,3 +53,4 @@ plt.grid(True, "major", "y")
 for index, value in enumerate(stars):
     plt.text(index, value+1.5, str(value), ha = 'center')
 plt.show()
+;
