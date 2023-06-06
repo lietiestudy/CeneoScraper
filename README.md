@@ -25,4 +25,4 @@
 5. Translate
 6. Numpy
 7. Pandas
-8. Matplotlib
+8. Matplotli
