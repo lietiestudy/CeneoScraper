@@ -74,3 +74,4 @@ if len(all_opinions) > 0:
         os.mkdir("./opinions")
     with open(f"./opinions/{product_code}.json", "w",encoding="UTF-8") as jf:
         json.dump(all_opinions,jf,indent=4,ensure_ascii=False)
+;
